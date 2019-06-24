@@ -9,8 +9,6 @@ To compile and run this code on your local machine (Linux), follow the following
 
 2.use the following command for compile and run:
 
-   g++ -std=c++17 main.cpp -lncurses Wall
-   
-   ./a.out
-   
-3. Done!
+g++ -std=c++17 main.cpp -lncurses -Wall
+
+./a.out
